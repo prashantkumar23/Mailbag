@@ -1,0 +1,18 @@
+{
+  "smtp" : {
+    "host" : "smtp.gmail.com",
+    "port" : 465,
+    "auth" : {
+      "user" : "blackhole.gamma@gmail.com",
+      "pass" : "blackholegammaa"
+    }
+  },
+  "imap" : {
+    "host" : "imap.gmail.com",
+    "port" : 993,
+    "auth" : {
+      "user" : "blackhole.gamma@gmail.com",
+      "pass" :  "blackholegammaa"
+    }
+  }
+}
